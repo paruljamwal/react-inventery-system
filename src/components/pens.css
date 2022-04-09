@@ -1,0 +1,12 @@
+.box1{
+    margin: 10px;
+    
+   }
+   .penny{
+    display: flex;
+       text-align: center;
+   }
+   #pic{
+    
+       height: 200px;
+   }
